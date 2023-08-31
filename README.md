@@ -9,15 +9,20 @@ Este projeto visa fornecer aos participantes uma experiência prática na criaç
 ## Funcionalidades Principais
 
 - Cadastro e autenticação de usuários.
-- Listagem de jogadores disponíveis para seleção.
-- Escalação de times com seleção de jogadores e capitão.
+- Cadastro de jogadores para os times da série A (2023)
+- Gerenciamento de times e escalação de times com seleção de jogadores (Ainda não implementado)
 
 ## Tecnologias Utilizadas
 
-- Linguagem: C#
-- Plataforma: Windows Forms
+- Linguagem: C# 
+- Plataforma: Windows Forms - .NET 6.0
 - Banco de Dados: MySQL
 - ORM (Object-Relational Mapping): Entity Framework
+
+## Bibliotecas (pacotes) Utilizados
+- Pomelo.EntityFrameworkCore.MySql (Instalando esse, os demais são instalados como dependência)
+- Microsoft.EntityFrameworkCore
+- MySqlConnector
 
 ## Como Contribuir
 
@@ -33,13 +38,14 @@ Se você deseja contribuir para este projeto, siga os passos abaixo:
 ## Instruções de Uso
 
 1. Clone este repositório para sua máquina local.
-2. Abra o projeto em um ambiente de desenvolvimento compatível com C# e Windows Forms.
-3. Configure a conexão com o banco de dados PostgreSQL no arquivo de configuração apropriado.
-4. Execute o aplicativo e explore as funcionalidades.
+2. Abra o projeto em um ambiente de desenvolvimento compatível com C# e Windows Forms .NET 6.0.
+4. Baixe e instale o SGBD MySQL em sua máquina local.
+5. Crie a base de dados com o arquivo **script_criacao_base_dados.sql** localizado no diretório #Materiais\Scripts do repositório.
+6. Execute o aplicativo e explore as funcionalidades.
 
 
 ---
 
-Aproveite a oficina e divirta-se criando seu próprio aplicativo de gerenciamento de times de futebol no estilo Cartola FC! Se tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para entrar em contato.
+Aproveite a oficina e divirta-se! Se tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para entrar em contato.
 
 Autor: Danimar Veriato.

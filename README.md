@@ -5,6 +5,7 @@ Bem-vindo ao repositório do projeto CartolaFC Clone! Este projeto foi elaborado
 ## Descrição
 
 Este projeto visa fornecer aos participantes uma experiência prática na criação de um aplicativo que permite aos usuários montar e gerenciar seus próprios times de futebol fictícios para a rodada do Campeonato Brasileiro. O aplicativo incluirá recursos como cadastro de usuários, seleção de jogadores e escalação de times.
+<img src="/#Materiais/imgTelaInicial.png">
 
 ## Funcionalidades Principais
 

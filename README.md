@@ -45,9 +45,14 @@ Se você deseja contribuir para este projeto, siga os passos abaixo:
 5. Crie a base de dados com o arquivo **script_criacao_base_dados.sql** localizado no diretório #Materiais\Scripts do repositório.
 6. Execute o aplicativo e explore as funcionalidades.
 
+## Materiais Complementares
+
+Dentro da pasta **#Materiais**, você vai encontrar alguns materiais complementares para entender a ideia básica de como foi pensado a implementação. Dentre as informações disponíveis estão:
+1. Modelagem do diagrama de entidade-relacionamento (ER) do banco de dados.
+2. Mockups das telas que imaginamos implementar nesse primeiro momento para o projeto.
+3. Imagens utilizadas dentro do projeto.
 
 ---
-
 Aproveite a oficina e divirta-se! Se tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para entrar em contato.
 
 Autor: Danimar Veriato.

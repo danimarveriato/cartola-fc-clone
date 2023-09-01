@@ -1,0 +1,55 @@
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\bin\Debug\net6.0-windows\CartolaFCClone.exe
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\bin\Debug\net6.0-windows\CartolaFCClone.deps.json
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\bin\Debug\net6.0-windows\CartolaFCClone.runtimeconfig.json
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\bin\Debug\net6.0-windows\CartolaFCClone.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\bin\Debug\net6.0-windows\CartolaFCClone.pdb
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.csproj.GenerateResource.cache
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.AssemblyInfoInputs.cache
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.AssemblyInfo.cs
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.csproj.CoreCompileInputs.cache
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\obj\Debug\net6.0-windows\refint\CartolaFCClone.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.pdb
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.genruntimeconfig.cache
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\obj\Debug\net6.0-windows\ref\CartolaFCClone.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.Principal.resources
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.Login.resources
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\CartolaFCClone.exe
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\CartolaFCClone.deps.json
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\CartolaFCClone.runtimeconfig.json
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\CartolaFCClone.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\CartolaFCClone.pdb
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.Principal.resources
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.Login.resources
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.csproj.GenerateResource.cache
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.AssemblyInfoInputs.cache
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.AssemblyInfo.cs
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.csproj.CoreCompileInputs.cache
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\refint\CartolaFCClone.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.pdb
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.genruntimeconfig.cache
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\ref\CartolaFCClone.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.csproj.AssemblyReference.cache
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.csproj.CopyComplete
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.AdminCartoleiro.resources
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.Properties.Resources.resources
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.NovoCartoleiro.resources
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.AreaCartoleiro.resources
+C:\Users\AquaAdmin\Documents\Visual Studio 2022\Projects\CartolaFCClone - Copia\CartolaFCClone\obj\Debug\net6.0-windows\CartolaFCClone.GerenciamentoTimes.resources
